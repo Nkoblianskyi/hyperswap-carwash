@@ -26,13 +26,15 @@ export default function Hero() {
                   Book Now
                 </Button>
               </Link>
-              <Button
-                size="lg"
-                variant="outline"
-                className="border-white text-white hover:bg-white hover:text-slate-900 text-lg px-8 py-3 bg-transparent"
-              >
-                Learn More
-              </Button>
+              <Link href="/services">
+                <Button
+                  size="lg"
+                  variant="outline"
+                  className="border-white text-white hover:bg-white hover:text-slate-900 text-lg px-8 py-3 bg-transparent"
+                >
+                  Learn More
+                </Button>
+              </Link>
             </div>
 
             <div className="flex items-center space-x-8 pt-4">

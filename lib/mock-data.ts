@@ -24,13 +24,13 @@ import {
 
 // Company Information
 export const companyInfo = {
-  name: "HyperSwap",
+  name: "HyperLiquid",
   tagline: "Professional Car Wash",
   description:
     "The best service for your vehicle. Hand wash, mobile wash, classic wash and professional car detailing.",
   phone: "06 24 68 52 12",
-  email: "info@hyperswap.com",
-  privacyEmail: "privacy@hyperswap.com",
+  email: "info@hyperliquid.com",
+  privacyEmail: "privacy@hyperliquid.com",
   address: "22 rue Joseph Cugnot, 66000 Perpignan",
   workingHours: "Mon-Sun: 08:00 - 22:00",
   foundedYear: 2014,

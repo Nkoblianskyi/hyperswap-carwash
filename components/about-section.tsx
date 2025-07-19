@@ -8,7 +8,7 @@ export default function AboutSection() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div>
-            <img src="/53dec8d67a0baf5370f3066b395dbb35.jpg" alt="HyperSwap Team" className="rounded-2xl shadow-2xl" />
+            <img src="/53dec8d67a0baf5370f3066b395dbb35.jpg" alt="HyperLiquid Team" className="rounded-2xl shadow-2xl" />
           </div>
 
           <div className="space-y-8">

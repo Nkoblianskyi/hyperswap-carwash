@@ -42,7 +42,7 @@ export default function CookiePolicyPage() {
             </CardHeader>
             <CardContent className="space-y-4">
               <p className="text-gray-700">
-                HyperSwap uses cookies to improve your experience using our website and provide personalized services.
+                HyperLiquid uses cookies to improve your experience using our website and provide personalized services.
               </p>
               <div className="grid md:grid-cols-2 gap-6 mt-6">
                 <div className="flex items-start space-x-3">

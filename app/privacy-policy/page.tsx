@@ -26,7 +26,7 @@ export default function PrivacyPolicyPage() {
             </CardHeader>
             <CardContent className="space-y-4">
               <p className="text-gray-700">
-                This Privacy Policy describes how HyperSwap collects, uses and protects your personal information when
+                This Privacy Policy describes how HyperLiquid collects, uses and protects your personal information when
                 using our services and website.
               </p>
               <p className="text-gray-700">

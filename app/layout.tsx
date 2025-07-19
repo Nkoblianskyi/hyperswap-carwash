@@ -9,7 +9,7 @@ import ScrollToTop from "@/components/scroll-to-top"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "HyperSwap - Professional Car Wash Services",
+  title: "HyperLiquid - Professional Car Wash Services",
   description: "The best car wash with full range of services: hand wash, mobile wash, classic wash and car detailing.",
 }
 
